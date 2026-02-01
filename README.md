@@ -59,21 +59,19 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
-
 #### Misc
 
 ![VBA](https://img.shields.io/badge/-VBA-05122A?style=flat&logo=microsoftexcel)
 
-
 ### 💳 Github Profile Summary Card
 
-<div align=center>  
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutttuwi&theme=github_dark)
+<div>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutttuwi&theme=github_dark"/>
 </div>
 
 ### ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
+<p>
 <a href="https://github.com/tutttuwi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tutttuwi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tutttuwi&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -89,7 +87,7 @@ Here are some ideas to get you started:
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/tutttuwi/"><img src="https://img.shields.io/badge/-tutttuwi%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:t.tsutsui9117@gmail.com"><img src="https://img.shields.io/badge/-t.tsutsui9117@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p><br>
