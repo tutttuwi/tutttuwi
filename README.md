@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 </p>
 
 ### ⭐️ &nbsp;GitHub Activity
+
 <a href="https://github.com/tutttuwi">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph??username=tutttuwi&theme=github-compact" alt="tutttuwi's GitHub activity graph" />
